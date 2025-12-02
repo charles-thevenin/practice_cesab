@@ -13,6 +13,9 @@
 *.Rproj
 .Rproj.user/
 
+# CSV files ----
+*.csv
+
 # R Environment Variables ----
 .Renviron
 
