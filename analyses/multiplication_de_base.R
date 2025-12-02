@@ -6,3 +6,6 @@ b <- 30
 
 ## Multiplier les deux valeurs
 c <- a*b
+
+#OOOOOO
+
