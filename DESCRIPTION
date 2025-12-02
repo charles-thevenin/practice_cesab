@@ -1,0 +1,23 @@
+Package: practice
+Type: Package
+Title: Download WWF WildFinder database
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Charles",
+           family  = "Thévenin",
+           role    = c("aut", "cre", "cph"),
+           email   = "charles.thevenin@mnhn.fr",
+           comment = c(ORCID = "0000-0002-5520-476X")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/charles-thevenin/practice
+BugReports: https://github.com/charles-thevenin/practice/issues
+License: GPL-2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    here,
+    utils
+Depends: 
+    ggplot2
